@@ -1,0 +1,4 @@
+repository "Cosmos@johnsonwq@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
